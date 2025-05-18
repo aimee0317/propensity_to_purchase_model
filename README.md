@@ -1,1 +1,1 @@
-# propensity_to_purchase_model
+# E-Commerce Customer propensity to purchase 
